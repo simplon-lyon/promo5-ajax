@@ -1,0 +1,11 @@
+{
+  "persons": [
+    {"id": 1, "name": "Mathieu", "birthdate": "1989-07-15", "gender": 0},
+    {"id": 2, "name": "Alice", "birthdate": "1990-10-20", "gender": 1},
+    {"id": 3, "name": "Bob", "birthdate": "1995-07-02", "gender": 0},
+    {"id": 4, "name": "Zoé", "birthdate": "1999-04-18", "gender": 1}    
+  ],
+  "dogs": [
+    {"id":1, "name": "Rex", "personId": 2}
+  ]
+}
