@@ -1,5 +1,5 @@
 {
-  "name": "starter-webpack-sass",
+  "name": "promo5-ajax",
   "version": "1.0.0",
   "description": "A javascript project for webpack and stuff",
   "main": "index.js",
@@ -10,19 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simplon-lyon/starter-webpack-sass.git"
+    "url": "git+https://github.com/simplon-lyon/promo5-ajax.git"
   },
   "keywords": [
     "javascript",
     "webpack",
-    "simplon"
+    "simplon",
+    "ajax"
   ],
   "author": "Simplon",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/simplon-lyon/starter-webpack-sass/issues"
+    "url": "https://github.com/simplon-lyon/promo5-ajax/issues"
   },
-  "homepage": "https://github.com/simplon-lyon/starter-webpack-sass#readme",
+  "homepage": "https://github.com/simplon-lyon/promo5-ajax#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^4.3.1",
     "css-loader": "^0.28.9",

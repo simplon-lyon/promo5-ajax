@@ -4,7 +4,8 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 module.exports = {
     entry: {
         index:'./src/scripts/index.js',
-        vendor: ['bootstrap']
+        rest:'./src/scripts/rest.js',
+        vendor: ['bootstrap', 'jquery']
     },
     output: {
         filename: 'dist/[name].bundle.js'
