@@ -5,7 +5,7 @@ module.exports = {
     entry: {
         index:'./src/scripts/index.js',
         rest:'./src/scripts/rest.js',
-        vendor: ['bootstrap', 'jquery']
+        vendor: ['bootstrap', 'jquery', 'moment']
     },
     output: {
         filename: 'dist/[name].bundle.js'
